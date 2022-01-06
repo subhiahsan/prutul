@@ -30,6 +30,7 @@ Then set your own **Git credentials** bellow:
 ```shell
 GIT_NAME=""         # Your name
 GIT_EMAIL=""        # Your email
+GIT_TOKEN=""        # Your token
 REPO_URL=""         # Repo URL (eg. https://github.com/fadhiilrachman/ossdao)
 BRANCH_NAME="main"  # Github default branch, if you don't have alter branch please don't edit
 ```
